@@ -201,3 +201,11 @@ footer{
 	background: #222222;
 	color: #fff;
 }
+
+.mail div{
+	padding: 0;
+}
+input::placeholder {
+  color: #fff;
+  opacity: 0;
+}
