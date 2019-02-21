@@ -1,0 +1,203 @@
+body{
+	padding: 0;
+}
+.header{
+
+	padding-top: 40px;
+	color: #fff;
+	background-position: 100%;
+	padding-bottom: 80px;
+	background: url(img/f1.jpg) ;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	
+}
+.fon1{	
+
+}
+.log{
+	font-family: BASKVILL;
+	line-height: 100%;
+	font-size: 24px;
+	font-weight:600;
+	letter-spacing: 1px;
+
+}
+.main_menu{
+	font-weight:600;
+	margin: 0;
+}
+.main_menu ul li{
+	display: inline-block;
+	list-style: none;
+	font-family: BASKVILL;
+	font-size: 16px;
+	padding-right: 40px;
+}
+.menu_burger{
+	position: fixed;
+}
+.search{
+	text-align: right;
+}
+
+@font-face {
+	font-family: BASKVILL;
+	src: url("../fonts/BASKVILL.ttf");
+	font-weight: normal;
+}
+@font-face {
+	font-family: PlayfairDisplay;
+	src: url("../fonts/PlayfairDisplay-Regular.ttf");
+	font-weight: normal;
+}
+.fiorelli{
+	padding-top: 150px;
+	font-family: BASKVILL;
+	font-size: 40px;
+
+	letter-spacing: 1px;
+	font-weight:600;
+}
+.wintage{
+	padding-top: 30px;
+	padding-bottom: 50px;
+	font-size: 16px;
+
+	letter-spacing: 3px;
+	font-weight:400;
+}
+.buy_now{
+	font-family: BASKVILL;
+	border: none;
+	background: #fff;
+	color: #917bb5;
+	font-size: 20px;
+	padding-top:20px;
+	padding-bottom: 20px;
+	padding-left: 55px;
+	padding-right: 55px;
+	border-radius: 35px;
+	box-shadow: 0px 4px 14px #726682;
+	letter-spacing: 1px;
+	font-weight:600;
+}
+.watch {
+	height: 60px;
+	width: 60px;
+	border-color: #fff;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 30px;
+	background: none;
+
+}
+.watch_video{
+	line-height: 70px;
+}
+.slidesh{
+
+
+	box-shadow: 0px 4px 14px #726682;
+	background: #fff;
+}
+.back{
+	background: #fff;
+	height: 1000px;
+}
+.product{
+	padding-top: 20px;
+	background: #fff;
+	padding-bottom: 20px;
+
+}
+.fon{
+	background: #f5f5f5;
+	height: 
+}
+.line{
+	width: 70px;
+	background:#355dae;
+	height: 2px; 
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.z1{
+	color: #355dae;
+	padding-top: 50px;
+	font-size: 20px; 
+	font-weight: 500; 
+	text-align: center;
+}
+.z2{
+	text-align: center;
+	font-size: 16px;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	font-weight: 500;
+	font-family: PlayfairDisplay;
+}
+.price{
+	padding-top: 30px;
+	font-size: 20px;
+	padding-bottom: 30px;
+}
+.product img{
+	padding-top: 20px;
+}
+
+
+.pr{
+	border-right:1px solid #ededed;
+}
+.bott{
+	border-bottom:1px solid #ededed;
+}
+
+main{
+	margin-bottom: -80px;
+}
+.subscribe{
+	background: url(img/f4.jpg) ;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	color: #fff;
+	text-align:center;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.subscribe p{
+	padding: 0;
+}
+.sub1{
+	font-size: 22px;
+}
+.sub2{
+	font-size: 20px;
+}
+.subscribe input{
+	width: 100%;
+	border: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: 0;
+	font-size: 20px;
+	background:#fff;
+	opacity: 0.5;
+}
+.subscribe button{
+	border: none;
+	color: #fff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 20px;
+	background: #40c5aa;
+	width: 100%;
+}
+
+footer{
+	background: #222222;
+	color: #fff;
+}
